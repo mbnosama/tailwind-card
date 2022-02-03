@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.social-link {
+    @apply h-6 fill-current text-gray-600 hover:text-green-700;
+}
